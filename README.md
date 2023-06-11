@@ -4,8 +4,8 @@
 ## Motivation
 1. The problem of aging and the elderly living alone in Korea is increasing    
 <div align="center">
-   <img alt="img_2.png" height="300" src="img_2.png" width="300"/>
-   <img alt="img_3.png" height="300" src="img_3.png" width="400"/>
+   <img alt="img_2.png" height="300" src="profile/img_2.png" width="300"/>
+   <img alt="img_3.png" height="300" src="profile/img_3.png" width="400"/>
 </div>
 
 2. Development of service applications for the elderly living alone
@@ -15,10 +15,10 @@ A service that helps the elderly living alone in terms of health and security
 
 ## Techniques in MoWA
 Wi-Fi, AI Speaker Using Raspberry pi 4B  
-<img alt="img.png" height="200" src="img.png" width="600"/>
+<img alt="img.png" height="200" src="profile/img.png" width="600"/>
 
 ## Illustration
-<img  alt="img_1.png" height="300" src="img_1.png" width="300"/>
+<img  alt="img_1.png" height="300" src="profile/img_1.png" width="300"/>
 
 ## Main Features
 - Monitor specific situations in room by Wi-Fi sensing
@@ -30,7 +30,7 @@ Wi-Fi, AI Speaker Using Raspberry pi 4B
 - Smartphone Application for Customizing
 	* Users can customize service for themselves by using smartphone app     
     
-<img alt="img_4.png" height="250" src="img_4.png" width="800"/>
+<img alt="img_4.png" height="250" src="profile/img_4.png" width="800"/>
 
 ## Using Framework & Library
 
@@ -58,16 +58,16 @@ Wi-Fi, AI Speaker Using Raspberry pi 4B
     </tr>
     <tr height="160px">
         <td align="center">
-            <img height="120px" weight="120px" src="img_7.png"/>
+            <img height="120px" weight="120px" src="profile/img_7.png"/>
         </td>
         <td align="center">
-            <img height="120px" weight="120px" src="img_8.png"/>
+            <img height="120px" weight="120px" src="profile/img_8.png"/>
         </td>
         <td align="center">
-            <img height="120px" weight="120px" src="img_9.png"/>
+            <img height="120px" weight="120px" src="profile/img_9.png"/>
         </td>
         <td align="center">
-            <img height="120px" weight="120px" src="img_10.png"/>
+            <img height="120px" weight="120px" src="profile/img_10.png"/>
         </td>
     </tr>
     <tr>
