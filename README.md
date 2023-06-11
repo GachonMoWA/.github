@@ -92,10 +92,10 @@ Wi-Fi, AI Speaker Using Raspberry pi 4B
             <code>Android</code><br><code>Database</code>
         </td>
         <td align="center">
-            <code>AI Speaker</code><br><code>BackEnd:Node.js</code>
+            <code>AI Speaker</code><br><code>Marketing</code>
         </td>
         <td align="center">
-            <code>AI Speaker</code><br><code>Marketing</code>
+            <code>AI Speaker</code><br><code>BackEnd:Node.js</code>
         </td>
     </tr>
 </table>
