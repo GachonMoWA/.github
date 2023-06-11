@@ -18,6 +18,7 @@ Wi-Fi, AI Speaker Using Raspberry pi 4B
 <div align="center">
 	<img alt="img.png" height="200" src="https://github.com/GachonMoWA/.github/blob/main/profile/img.png" width="600"/>
 </div>
+
 ## Illustration
 <div align="center">
 	<img  alt="img_1.png" height="300" src="https://github.com/GachonMoWA/.github/blob/main/profile/img_1.png" width="300"/>
