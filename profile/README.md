@@ -15,10 +15,13 @@ A service that helps the elderly living alone in terms of health and security
 
 ## Techniques in MoWA
 Wi-Fi, AI Speaker Using Raspberry pi 4B  
-<img alt="img.png" height="200" src="https://github.com/GachonMoWA/.github/blob/main/profile/img.png" width="600"/>
-
+<div align="center">
+	<img alt="img.png" height="200" src="https://github.com/GachonMoWA/.github/blob/main/profile/img.png" width="600"/>
+</div>
 ## Illustration
-<img  alt="img_1.png" height="300" src="https://github.com/GachonMoWA/.github/blob/main/profile/img_1.png" width="300"/>
+<div align="center">
+	<img  alt="img_1.png" height="300" src="https://github.com/GachonMoWA/.github/blob/main/profile/img_1.png" width="300"/>
+</div>
 
 ## Main Features
 - Monitor specific situations in room by Wi-Fi sensing
@@ -29,8 +32,9 @@ Wi-Fi, AI Speaker Using Raspberry pi 4B
     <br>
 - Smartphone Application for Customizing
 	* Users can customize service for themselves by using smartphone app     
-    
-<img alt="img_4.png" height="250" src="https://github.com/GachonMoWA/.github/blob/main/profile/img_4.png" width="800"/>
+<div align="center">	
+	<img alt="img_4.png" height="250" src="https://github.com/GachonMoWA/.github/blob/main/profile/img_4.png" width="800"/>
+</div>
 
 ## Using Framework & Library
 
