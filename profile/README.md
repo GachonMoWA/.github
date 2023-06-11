@@ -54,6 +54,7 @@ Wi-Fi, AI Speaker Using Raspberry pi 4B
 1. Figma
 
 ## Link to repository
+For more information, you can check the repository.
 <table align="center" style="background-color: white;">
     <tr>
         <td align="center"><b>Wi-Fi Sensing</b></td>
@@ -63,7 +64,7 @@ Wi-Fi, AI Speaker Using Raspberry pi 4B
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/pjs990301">Link 추후 링크하기</a></td>
-        <td align="center"><a href="https://github.com/namseonu">Link 추후 링크하기</a></td>
+        <td align="center"><a href="https://github.com/GachonMoWA/mowa-app-android">Link</a></td>
         <td align="center"><a href="https://github.com/champsleague">Link 추후 링크하기</a></td>
         <td align="center"><a href="https://github.com/chanhoim">Link 추후 링크하기</a></td>
     </tr>
