@@ -87,7 +87,7 @@ Wi-Fi, AI Speaker Using Raspberry pi 4B
         <td align="center"><a href="https://github.com/champsleague">Github</a></td>
         <td align="center"><a href="https://github.com/chanhoim">Github</a></td>
     </tr>
-    <tr>
+   <tr style="background-color: white;">
         <td align="center">
             <code>Modeling</code><br><code>BackEnd:Django</code>
         </td>
