@@ -54,7 +54,7 @@ Wi-Fi, AI Speaker Using Raspberry pi 4B
 1. Figma
 
 ## TEAM
-<table align="center">
+<table align="center" style="background-color: white;">
     <tr>
         <td align="center"><b>표지성</b></td>
         <td align="center"><b>남선우</b></td>
@@ -74,8 +74,6 @@ Wi-Fi, AI Speaker Using Raspberry pi 4B
         <td align="center">
             <img height="120px" weight="120px" src="https://github.com/GachonMoWA/.github/blob/main/profile/img_10.png"/>
         </td>
-    </tr>
-    <tr>
     </tr>
     <tr>
         <td align="center">201835541</td>
