@@ -63,9 +63,9 @@ For more information, you can check the repository
         <td align="center"><b>Andorid</b></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/pjs990301">Link 추후 링크하기</a></td>
-        <td align="center"><a href="https://github.com/champsleague">Link 추후 링크하기</a></td>
-        <td align="center"><a href="https://github.com/chanhoim">Link 추후 링크하기</a></td>
+        <td align="center"><a href="https://github.com/GachonMoWA/MoWA_Wi-Fi-Sensing">Link</a></td>
+        <td align="center"><a href="https://github.com/GachonMoWA/MoWA_Django">Link</a></td>
+        <td align="center"><a href="https://github.com/GachonMoWA/MoWA-Dialogflow">Link</a></td>
 	<td align="center"><a href="https://github.com/GachonMoWA/mowa-app-android">Link</a></td>
     </tr>
 </table>
